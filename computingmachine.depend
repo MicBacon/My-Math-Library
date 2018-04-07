@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523037819 source:c:\users\micha³\desktop\c++ quests\computingmachine\main.cpp
+	<iostream>
+	"mymath.h"
+
+1523037737 source:c:\users\micha³\desktop\c++ quests\computingmachine\mymath.cpp
+	<stack>
+	<cmath>
+	<iostream>
+
+1523037364 c:\users\micha³\desktop\c++ quests\computingmachine\mymath.h
+
